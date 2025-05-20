@@ -299,7 +299,7 @@
 <body>
 
 <header>
-  <h1>Tienda en venta por diamantes 👹👹</h1>
+  <h1>Tienda de placid apenas en proceso</h1>
   <nav aria-label="Menú principal">
     <button class="nav-btn active" data-section="inicio" aria-current="page">Inicio</button>
     <button class="nav-btn" data-section="comprar">Comprar</button>
@@ -311,7 +311,7 @@
 <main>
   <!-- Inicio -->
   <section id="inicio" class="active" tabindex="0" aria-label="Sección inicio">
-    <h2>por 500 diamantes paso el código de la tienda totalmente 👾 </h2>
+    <h2> tienda en proceso  👾 </h2>
     <p>Explora una amplia variedad de productos de alta calidad con precios justos.</p>
     <p>Usa el apartado "Comprar" para buscar, filtrar y añadir productos a tu carrito.</p>
   </section>
