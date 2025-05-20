@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Tienda de PANEL Y MACRO 👹 - Inicio y Comprar Separado</title>
+  <title>Tienda de placid apenas en programación 👹 - Inicio y Comprar Separado</title>
   <script src="https://js.stripe.com/v3/"></script>
   <style>
     /* Reset */
